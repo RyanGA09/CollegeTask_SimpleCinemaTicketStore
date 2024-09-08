@@ -4,7 +4,7 @@
 
 This is a Simple Cinema Ticket Store as my task learning Web Programming.
 
-Tech Stack: HTML, CSS, JS, IMG
+Tech Stack: HTML, Assets(CSS, JS, IMG)
 
 ## License
 
