@@ -11,13 +11,13 @@ Tech Stack: HTML, Assets(CSS, JS, IMG)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/RyanGA09/Task-SimpleCinemaTicketStore.git
+git clone https://github.com/RyanGA09/CollegeTask-SimpleCinemaTicketStore.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Task-SimpleCinemaTicketStore
+cd CollegeTask-SimpleCinemaTicketStore
 ```
 
 3. Open index.html in your web browser to view the portfolio
