@@ -2,30 +2,22 @@
 
 ## Description
 
-This is a Simple Cinema Ticket Store as my task learning Web Programming.
+This is a Simple Cinema Ticket Store as my assignment to study Web Programming in College in 2023.
 
 Tech Stack: HTML, Assets(CSS, JS, IMG)
-
-## License
-
-[MIT License](LICENSE)
-
-<!-- Copyright (c) 2023 -->
-
-&copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/RyanGA09/Task-SimpleCinemaTicketStore.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your-repository
+cd Task-SimpleCinemaTicketStore
 ```
 
 3. Open index.html in your web browser to view the portfolio
@@ -84,3 +76,11 @@ For any questions or feedback, you can reach out to me via:
 ## Note
 
 **Contributing Section**: Added instructions to create a new branch for changes instead of pushing directly to the `main` branch, to maintain a clean project history.
+
+## License
+
+[MIT License](LICENSE)
+
+<!-- Copyright (c) 2023 -->
+
+&copy; 2023 Ryan Gading Abdullah. All rights reserved.
