@@ -1,4 +1,4 @@
-# Simple Cinema Ticket Store
+# College Task - Simple Cinema Ticket Store
 
 ## Description
 
