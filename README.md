@@ -10,15 +10,15 @@ Tech Stack: HTML, Assets(CSS, JS, IMG)
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/RyanGA09/CollegeTask-SimpleCinemaTicketStore.git
-```
+  ```bash
+  git clone https://github.com/RyanGA09/CollegeTask-SimpleCinemaTicketStore.git
+  ```
 
 2. Navigate to the project directory:
 
-```bash
-cd CollegeTask-SimpleCinemaTicketStore
-```
+  ```bash
+  cd CollegeTask-SimpleCinemaTicketStore
+  ```
 
 3. Open index.html in your web browser to view the portfolio
 
@@ -32,29 +32,29 @@ cd CollegeTask-SimpleCinemaTicketStore
 
 Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please ensure that your contributions adhere to the existing style and coding standards.
 
-Important: When contributing, please create a new branch for your changes instead of pushing directly to the main branch. To do this:
+**Important: When contributing, please create a new branch for your changes instead of pushing directly to the main branch. To do this:**
 
-Create a new branch:
+1. Create a new branch:
 
-```bash
-git checkout -b your-feature-branch
-```
+  ```bash
+  git checkout -b your-feature-branch
+  ```
 
-Make your changes and commit them:
+2. Make your changes and commit them:
 
-```bash
-git add .
-```
+  ```bash
+  git add .
+  ```
 
-```bash
-git commit -m "Add a descriptive message about your changes"
-```
+  ```bash
+  git commit -m "Add a descriptive message about your changes"
+  ```
 
-Push the branch to your forked repository:
+3. Push the branch to your forked repository:
 
-```bash
-git push -u origin your-feature-branch
-```
+  ```bash
+  git push -u origin your-feature-branch
+  ```
 
 Open a pull request from your branch to the main branch of the original repository.
 
