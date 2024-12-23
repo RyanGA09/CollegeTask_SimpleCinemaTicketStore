@@ -2,9 +2,9 @@
 
 ## Description
 
-This is a Simple Cinema Ticket Store as my assignment to study Web Programming in College in 2023.
+This is a Simple Cinema Ticket Shop as my assignment to study Web Programming in College in 2023. This project allows users to search for movie theaters they want to watch. This application helps users to search for movies they want to watch before buying tickets.
 
-Tech Stack: HTML, Assets(CSS, JS, IMG)
+Tech Stack: HTML, Assets(CSS, JS, IMAGE)
 
 ## Installation
 
@@ -68,19 +68,12 @@ For any questions or feedback, you can reach out to me via:
 
 - [Linkedin](https://www.linkedin.com/in/ryan-gading-abdullah/)
 
-<!-- ## Support Me -->
-
-<!-- - [Saweria](mailto:ryanrga01@gmail)
-- [Sociabuzz](https://www.linkedin.com/in/ryan-gading-abdullah/) -->
-
 ## Note
 
 **Contributing Section**: Added instructions to create a new branch for changes instead of pushing directly to the `main` branch, to maintain a clean project history.
 
 ## License
 
-[MIT License](LICENSE)
-
-<!-- Copyright (c) 2023 -->
-
 &copy; 2023 Ryan Gading Abdullah. All rights reserved.
+
+This project is licensed under the MIT License - see the [MIT License](LICENSE) for details.
